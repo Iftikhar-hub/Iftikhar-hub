@@ -1,4 +1,5 @@
 ## Hey <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" />, I'm Iftikhar Azhar -- a Web developer 👨‍💻
+<h1 align="center">Hi 👋, I'm Iftikhar Azhar -- a Web Developer 👨‍💻</h1>
 
 <img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
   
